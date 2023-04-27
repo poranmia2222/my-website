@@ -1,0 +1,22 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+    font-size: 40px;
+}
+.pexels-color{
+    color:  #8303F9;
+}
+.pro-color{
+    color: #FD896C;
+}
+.helf-width{
+    width: 40%;
+    float: left;
+    margin-left: 4%;
+    padding-left: 2%;
+    text-align: justify;
+}
+.helf-width img{
+    width: 100%;
+}
