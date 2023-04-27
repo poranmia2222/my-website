@@ -20,3 +20,12 @@ h1{
 .helf-width img{
     width: 100%;
 }
+.hire-me{   
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: 700;
+    padding: 10px 20px;
+    background-image: linear-gradient(45deg, #8303F9,#FD896C);
+    color: white;
+    border-radius: 5px;
+}
